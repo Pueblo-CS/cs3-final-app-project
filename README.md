@@ -45,6 +45,7 @@ Ask the assistant to help you come up with a simple app idea, or tell it your id
 - [ ] The function uses or modified the elements that are selected
 
 ## Document Object Model
+- [ ] Use of HTML form elements
 - [ ] Extensive use of ```getElementById```
 - [ ] Extensive use of ```createElement```
 - [ ] Extensive use of ```element.style``` or ```element.classList.add()```
